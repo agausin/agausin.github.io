@@ -1,0 +1,66 @@
+{
+  "main": {
+    "name": "Armando Gausin",
+    "occupation": "Business Major",
+    "description": "I like to take things on and not give up!",
+    "profile": "./images/profilepic.png",
+    "bio": "My name is Armando Jr, I'm a Business major, first generation, at Long Beach City College. I'm looking for a full-time position in sales. I'm currently interested in entrepreneurship and communication!",
+    "contactmessage": "You can contact me through email.",
+    "email": "armandogausin18@gmail.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/agausin",
+        "className": "fab fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Long Beach City College",
+        "degree": "Associates of Arts, Business",
+        "years": " Graduation date 2020 May",
+        "description": "Studying many career-oriented course work that fosters an in-depth understanding of core and advanced topics. "
+      }
+    ],
+    "work": [
+      {
+        "company": "T-moblie",
+        "title": "Mobile Expert",
+        "years": "Jan 2017 - August 2018",
+        "description": "Responsible for learning product information and selling mobile devies to clients and meeting a certain quota every month."
+      },
+      {
+        "company": "Premium Co.",
+        "title": "Sales",
+        "years": "August 2018 - Sept 2019",
+        "description": "Responsible for selling mobile devices for various carrier companies including T-mobile, Verizon and AT&T"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Excel",
+        "level": "90%"
+      },
+      {
+        "name": "Word",
+        "level": "85%"
+      },
+      {
+        "name": "PowerPoint",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TBA",
+        "category": "TBA",
+        "image": "TBA",
+        "url": "TBA"
+      }
+    ]
+  }
+}
